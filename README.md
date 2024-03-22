@@ -257,5 +257,5 @@ Módulos populares para Python:
 Para la instalacion de los modulos se hace uso del Simbolo del Sistema del computador, escribiendo sobre este:
 
 ```python
-pir install <nombre_delmodulo>
+pir install <nombre_del_modulo>
 ```
